@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results for Cleaner - PlayMe</title>
+</head>
+<body>
+    <div class="search-results">
+        <div class="movie-item">
+            <h2 class="title">Cleaner</h2>
+            <span class="year">2025</span>
+            <a href="/filmy/cleaner-2025-online-cz-sk">Watch Now</a>
+        </div>
+    </div>
+</body>
+</html>

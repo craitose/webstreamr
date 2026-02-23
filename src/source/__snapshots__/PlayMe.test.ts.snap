@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`PlayMe handle cleaner 2025 1`] = `
+[
+  {
+    "meta": {
+      "countryCodes": [
+        "multi",
+      ],
+      "title": "Cleaner",
+    },
+    "url": "https://playme.wtf/filmy/cleaner-2025-online-cz-sk?p=1",
+  },
+]
+`;
+
+exports[`PlayMe handle non-existent movie gracefully 1`] = `
+[]
+`;
+
+exports[`PlayMe handle series request returns empty (not supported) 1`] = `
+[]
+`;

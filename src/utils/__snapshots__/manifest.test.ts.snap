@@ -11,7 +11,7 @@ exports[`buildManifest default manifest 1`] = `
   "config": [
     {
       "key": "multi",
-      "title": "Multi 🌐 (4KHDHub, RgShows, VidSrc, VixSrc, XDMovies)",
+      "title": "Multi 🌐 (4KHDHub, PlayMe, RgShows, VidSrc, VixSrc, XDMovies)",
       "type": "checkbox",
     },
     {
@@ -126,7 +126,7 @@ exports[`buildManifest default manifest 1`] = `
 
 Supported languages: Albanian, Bengali, German, Castilian Spanish, French, Gujarati, Hindi, Italian, Japanese, Kannada, Korean, Malayalam, Marathi, Latin American Spanish, Punjabi, Tamil, Telugu
 
-Supported sources: 4KHDHub, CineHDPlus, Cuevana, Einschalten, Eurostreaming, Frembed, FrenchCloud, HomeCine, KinoGer, Kokoshka, MegaKino, MeineCloud, MostraGuarda, Movix, RgShows, StreamKiste, VerHdLink, VidSrc, VixSrc, XDMovies
+Supported sources: 4KHDHub, CineHDPlus, Cuevana, Einschalten, Eurostreaming, Frembed, FrenchCloud, HomeCine, KinoGer, Kokoshka, MegaKino, MeineCloud, MostraGuarda, Movix, PlayMe, RgShows, StreamKiste, VerHdLink, VidSrc, VixSrc, XDMovies
 
 Supported extractors: ",
   "id": "webstreamr",

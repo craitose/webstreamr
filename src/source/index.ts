@@ -13,6 +13,7 @@ import { MegaKino } from './MegaKino';
 import { MeineCloud } from './MeineCloud';
 import { MostraGuarda } from './MostraGuarda';
 import { Movix } from './Movix';
+import { PlayMe } from './PlayMe';
 import { RgShows } from './RgShows';
 import { Source } from './Source';
 import { StreamKiste } from './StreamKiste';
@@ -20,6 +21,7 @@ import { VerHdLink } from './VerHdLink';
 import { VidSrc } from './VidSrc';
 import { VixSrc } from './VixSrc';
 import { XDMovies } from './XDMovies';
+
 
 export * from './Source';
 
@@ -35,6 +37,8 @@ export const createSources = (fetcher: Fetcher): Source[] => {
     new RgShows(fetcher),
     // AL
     new Kokoshka(fetcher),
+    // CZ
+    new PlayMe(fetcher),
     // ES / MX
     new CineHDPlus(fetcher),
     new Cuevana(fetcher),
